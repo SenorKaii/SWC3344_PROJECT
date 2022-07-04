@@ -1,0 +1,100 @@
+001;110101010101;0;101;cucumber,beansprout,cabbage;15;24/05/2022
+002;220202020202;0;102;book,pen,pencil;9;24/05/2022
+003;330303030303;0;103;wok,sauce pan,pot,spoon,fork,whisk;150;24/05/2022
+004;440404040404;0;104;bucket,mop,broom,vacuum;50;24/05/2022
+005;550505050505;0;105;t-shirt,hoodie,jumper,jeans,chinos,polo;120;24/05/2022
+006;660606060606;0;106;fresh chicken,fresh meat,eggs,milk,soda;160;24/05/2022
+007;770707070707;0;107;chips,bread,cereal,oatmeal;45;24/05/2022
+008;880808080808;0;108;candy bars,block cheese,beer,water;60;24/05/2022
+009;990909090909;0;109;chocolate bars,snack cakes,cookies;35;24/05/2022
+010;101010101010;0;110;pepperoni jerky,bacon,wine,ham,eggs;300;24/05/2022
+011;111111111111;0;111;cupcakes,muffins,breakfast bars,bananas,apples,lemons;100;24/05/2022
+012;121212121212;0;112;potatoes,tomatoes,cucumbers,fried chicken;85;24/05/2022
+013;131313131313;0;113;coffee,yoghurts,milkshakes,fruit juices,candies;55;24/05/2022
+014;141414141414;0;114;frozen beef,hot dogs,peanut butter;70;24/05/2022
+015;151515151515;0;115;window cleaners,garbage bags,bleaches,cleaning wipes;40;24/05/2022
+016;161616161616;0;116;mayonnaise,sandwhiches,frozen pizza,cream,cool whip;60;24/05/2022
+017;171717171717;0;117;ice cream,sausages,philadelphia cream cheese,butter;79;24/05/2022
+018;181818181818;0;118;painkillers,vitamin c,biscuits,deli rolls,pasta;180;24/05/2022
+019;191919191919;0;119;pancakes,frozen fish,frozen seafood,legumes,rice,meal kits;220;24/05/2022
+020;202020202020;0;120;donuts,tea,canned soup,dog food,canned chicken,canned beans,canned salmon;170;24/05/2022
+021;212121212121;0;121;nuts,honey,maple syrup;40;24/05/2022
+022;222222222222;0;122;dish soap,detergents,softeners,toilet paper;59;24/05/2022
+023;232323232323;0;123;jams,energy drinks,frozen vegetables,green beans;65;24/05/2022
+024;242424242424;0;124;soybean oil,sunflower oil,flour,meatballs,ketchup,mustard;85;24/05/2022
+025;252525252525;0;125;noodles,olive oil,tabasco sauces,sugar,salt,vinegar;99;24/05/2022
+026;352525252525;0;126;perilla oil,tomato sauces,lettuce,salt,honey;250;24/05/2022
+027;368943252530;0;127;coconut oil,seaweed,cabbage,brown sugar;101;24/05/2022
+028;322545355523;0;128;sashimi,seaweed,salt,brown sugar;121;24/05/2022
+029;372545153524;0;129;fish oil,salmon,pepper,toblerone;131;24/05/2022
+030;352452352534;0;130;lobster,crayfish,cabbage,salt,pepper;141;24/05/2022
+031;232345512312;0;131;apple,seaweed,lettuce,seasalt;151;24/05/2022
+032;454541237832;0;132;olive oil,caviar,lobster,perilla;155;24/05/2022
+033;678099867140;0;133;baking powder,chocolate,flour,brown sugar;140;24/05/2022
+034;877894267532;0;134;black pepper,lamb ribs,olive oil,salt;147;24/05/2022
+035;888756742121;0;135;tortilla,lettuce,pepper,ground salt;124;24/05/2022
+036;674261875356;0;136;chicken,salmon,cabbage,olive oil;128;24/05/2022
+037;695785612344;0;137;coconut,watermelon,honey,sugar;135;24/05/2022
+038;654538687532;0;138;milk,baking powder,flour,sugar;134;24/05/2022
+039;798967548621;0;139;chicken wings,black pepper,olvie oil,flour;98;24/05/2022
+040;760964785827;0;140;coconut milk,rice,banana,honey;95;24/05/2022
+041;780809764811;0;141;chicken eggs,chicken breast,cooking flour,olive oil;231;24/05/2022
+042;779087587312;0;142;coconut oil,lemon,bell pepper,lamb cuts;225;24/05/2022
+043;710855652423;0;143;black pepper sauce,beef,lettuce,cabbage;287;24/05/2022
+044;720865464321;0;144;perilla oil,seaweed,lettuce,salt;311;24/05/2022
+045;796785640516;0;145;salt,seaweed,cabbage,sugar;246;24/05/2022
+046;895367830817;0;146;lamb shank,black pepper sauce,cabbage,sugar;210;24/05/2022
+047;868789653018;0;147;salmon,seaweed,cabbage,olive oil;345;24/05/2022
+048;778795430623;0;148;coconut oil,salmon,cabbage,lettuce;421;24/05/2022
+049;858790646731;0;149;olive oil,lobster,cabbage,crayfish;436;24/05/2022
+050;868790674001;0;150;chocolate,honey,flour,baking powder;322;24/05/2022
+051;101010101010;0;151;tie,bottle,floss,pencil;25;24/05/2022
+052;111113121111;0;152;ruler,detergent,rice;45;25/05/2022 
+053;188892121212;0;153;speaker,dishes,cream,biscuit;34;25/05/2022
+054;131313090913;0;154;sugar,flour,butter,chocolate;17;25/05/2022
+055;112124141412;0;155;squid,coffee,instant noodle,icing sugar;23;25/05/2022
+056;178615151515;0;156;curry powder,salt,sugar,mineral water,butter;29;25/05/2022
+057;161616167428;0;157;milo,coffee,instant noodle,oligo,horlicks,rice;62;25/05/2022
+058;681717171717;0;158;mouse,monitor,television,hdmi cable,keyboard;1950;25/05/2022
+059;181823221818;0;159;chicken,flour,deodorant,insect spray,cooking oil;43;25/05/2022
+060;563831919193;0;160;air purifier,air conditioner,laptop,microphone;1200;25/05/2022
+061;202020273833;0;161;motorcycle oil,potato chips,salad dressing,fruits;30;25/05/2022
+062;212112322121;0;162;creamed wheat,toys,waffles,shampoo,soy milk,plums;38;25/05/2022
+063;222222222523;0;163;cookie mix,oatmeal,popsides,pizza,toothpaste;21;25/05/2022
+064;232323238533;0;164;walnuts,tomatoes,spinach,onions,mushroom;18;25/05/2022
+065;424242432333;0;165;eggs,butter,yogurt,ramen,macaroni,salad,pet food;40;25/05/2022
+066;373325297322;0;166;soda,juice,oranges,pie,lemons,broccoli,avocados;26;25/05/2022
+067;232324232323;0;167;batteries,vanilla,yeast,cornmeal,cinnamon,pickles;38;25/05/2022
+068;323272724542;0;168;cake,cookies,pie,muffins,cookies,pretzels;43;25/05/2022
+069;323828282323;0;169;biscuit,donuts,creamed wheat,tea,coffee,hotdog;32;25/05/2022
+070;439323232929;0;170;ketchup,honey,pork,pancake,lotion,grapes;25;25/05/2022
+071;634340303030;0;171;tea,rice,wheat flour,ice cream,mushroom;17;25/05/2022
+072;344131364543;0;172;shampoo,toothpaste;14;25/05/2022
+073;434232323232;0;173;banana,onion,brocolli,tomatoes,carrots;25;25/05/2022
+074;343433333434;0;174;dragon fruit,cherry,melon,coconuts,avocado;21;25/05/2022
+075;343434343343;0;175;yogurt,tofu,chicken peas,onion,cornflakes,milk;29;25/05/2022
+076;343535353434;0;176;rice,baking powder,oat meal,bread,sugar,salt;18;25/05/2022
+077;777777777777;0;177;wallet,cheese,marinated lamb,marinated chicken,carrot,onion;151;24/05/2022
+078;787878787878;0;178;table,chair,pencil,marker,A4,perfume;85;24/05/2022
+079;797979797979;0;179;vape,flavour,plastic,shoes,lobster,onion;120;24/05/2022
+080;808080808080;0;180;candy,smashed potato,mushroom soup,onion bread,,coca cola;88;24/05/2022
+081;818181818181;0;181;basket,pastry,eggs,frozen pastry,cofee,sweet sandwich fillings;68;24/05/2022
+082;828282828282;0;182;pasta,cheese,seaweed,pepper,carrot,olive oil;56;24/05/2022
+083;838383838383;0;183;chocolate,coffee,seaweed,flour,honey;33;24/05/2022
+084;848484848484;0;184;milk,coffee,sugar,flour,salt;22;24/05/2022
+085;858585858585;0;185;sashimi,cabbage,toblerone,olive oil;66;24/05/2022
+086;868686868686;0;186;chicken eggs,chicken breast,chicken wings,sashimi;256;24/05/2022
+087;878787878787;0;187;cupcakes,muffins,breakfast bars,chocolate bars,cookies,lemons;100;24/05/2022
+088;888888888888;0;188;coconut milk,watermallon,banana,apple;93;24/05/2022
+089;898989898989;0;189;lamb shank,fresh meat,honey,milk,cabbage;139;24/05/2022
+090;909090909090;0;190;hot dogs,muffins,milkshakes,chocolate bars,cookies,fried chicken;150;24/05/2022
+091;919191919191;0;191;baking powder,cheese,cooking flour,black pepper sauce;176;24/05/2022
+092;929292929292;0;192;coffee,yoghurts,milkshakes;21;24/05/2022
+093;939393939393;0;193;tortilla,lamb ribs,cabbage,lamb shank;82;24/05/2022
+094;949494949494;0;194;chips,bread,cereal,oatmeal,milkshakes;90;24/05/2022
+095;959595959595;0;195;noodles,olive oil,vinegar;100;24/05/2022
+096;969696969696;0;196;soybean,sunflower oil,flour,meatballs;79;24/05/2022
+097;979797979797;0;197;tea,ice cream,mushroom;10;25/05/2022
+098;989898989898;0;198;baking powder,rice,muffins,coffee,pretzels;40;25/05/2022
+099;999999999999;0;199;chocolate,honey,flour,pasta,cheese,seaweed;48;24/05/2022
+100;112211221122;0;200;horlicks,chicken,pork,oranges,pie;55;25/05/2022
