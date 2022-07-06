@@ -30,7 +30,9 @@ public class CustomerInformation implements Comparable {
 	public void setCounterPaid(int n) {counterPaid = n;}
 	public void setItem(ItemInformation item) {this.item = item;}
 	
-	@Override public boolean equals(Object o) {
+	@Override 
+	//Determines whether an element is an instance of CustomerInformation or equal
+	public boolean equals(Object o) {
 		if (!(o instanceof CustomerInformation)) return false;
 		return ((CustomerInformation) o).custId.equals(this.custId);
 	}
@@ -39,7 +41,9 @@ public class CustomerInformation implements Comparable {
 		return Objects.hash(custId);
 	}
 
-	@Override public int compareTo(Object o) {
+	@Override 
+	//Compares an element
+	public int compareTo(Object o) {
 		if (!(o instanceof CustomerInformation)) return 0;
 		CustomerInformation other = (CustomerInformation) o;
 		
