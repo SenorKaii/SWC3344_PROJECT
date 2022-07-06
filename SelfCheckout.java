@@ -155,29 +155,36 @@ public class SelfCheckout extends javax.swing.JFrame implements java.beans.Custo
 
     private void jButtonStartActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonStartActionPerformed
         // TODO add your handling code here:
+        //For Loop to go through each customer
         for(CustomerInformation customer : customerList) {
+            //Splits customer order, as it comes in string to be counted
             String[] items = customer.getItem().getItemName().split(",");
-            
+            //If items are more than 5, customer goes to Counter 3(PrimaryCounter)
             if (items.length > 5)
             	queueManager.addToPrimary(customer);
+            //Otherwise, goes to either Counter 1(PrimaryExpressCounter) or Counter 2 (SecondaryExpressCounter)
             else
             	queueManager.addToExpress(customer);
 
         }
-        
+        //Set the text for jTextField accordingly
         jTextFieldCounter1.setText(queueManager.queuesStatusCounter1());
         jTextFieldCounter2.setText(queueManager.queuesStatusCounter2());
         jTextFieldCounter3.setText(queueManager.queuesStatusCounter3());
+        //Prints queue in console
         queueManager.queuesStatus();
         
     }//GEN-LAST:event_jButtonStartActionPerformed
 
     private void jButtonNextActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonNextActionPerformed
         // TODO add your handling code here:
+        //For Loop goes through each element in all queues
         for (Queue<CustomerInformation> queue : queueManager.queues) {
         	QueueManager.flush(queue);
         }
+        //Prints queue in console
         queueManager.queuesStatus();
+        //Set the text for jTextField accordingly
         jTextFieldCounter1.setText(queueManager.queuesStatusCounter1());
         jTextFieldCounter2.setText(queueManager.queuesStatusCounter2());
         jTextFieldCounter3.setText(queueManager.queuesStatusCounter3());
